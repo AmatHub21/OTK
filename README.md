@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # OTK — Otewe Kantin (mode lokal siap jalan)
 
 Versi ini menambahkan **mode standalone** supaya website bisa langsung dicoba di localhost tanpa instalasi npm, React, PostgreSQL, atau konfigurasi backend. Tampilan menggunakan logo OTK asli.
@@ -75,3 +76,6 @@ Catatan: WhatsApp tidak mengirim pesan otomatis di latar belakang. Tautan membuk
 - Pada daftar **Pesanan terbaru**, pelanggan dapat memilih **Sudah bayar? Konfirmasi via WhatsApp**. Tombol membuka WhatsApp ke nomor `085772354593` dengan detail pesanan yang sudah terisi; pelanggan dapat melampirkan bukti transfer lalu menekan **Kirim**.
 - Tombol **Cetak struk** membuka dialog cetak browser untuk struk pesanan.
 - Website lokal ini tidak memverifikasi pembayaran otomatis. Konfirmasi harus diperiksa oleh pengelola melalui WhatsApp, dan pop-up browser perlu diizinkan untuk mencetak struk.
+=======
+# OTK
+>>>>>>> 2d5122d312ed4c2283119da588a386c1c3ad68af
